@@ -1,4 +1,4 @@
-# Jewelry E-Commerce Website
+# Jewelry E-Commerce Store
 ## Installation
 **1. Create a Folder where you want to save the project**
 
